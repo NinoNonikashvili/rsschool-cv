@@ -38,7 +38,7 @@ https://toxic-oxide.github.io/capstone-SDSU/
 *	FPGA and ESP 8266 programming experience
   
 ## Languages:
-*	Georgian native 
+*	Georgian native
 *	English  B2-C1
 *	Russian  B2
 *	German A1
