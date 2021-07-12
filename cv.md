@@ -9,9 +9,9 @@ Despite  I am an electrical engineer, the recent years I have been working on my
   
 
 ## Education:
-San Diego State University Georgia 
-*	Bachelor's Degree | Electrical Engineering   (2017-2021)
-Online Courses:
+### San Diego State University Georgia 
+*	Bachelor's Degree | Electrical Engineering   (2017-2021)  
+### Online Courses:
 *	CodeHS - Introduction to Computer Science in JavaScript (Golden)   (2021)
 *	Udemy - The Complete Web Development Bootcamp  (2021)
 *	FreeCodeCamp - Responsive Web Design   (2021)
